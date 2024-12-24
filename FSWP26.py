@@ -325,5 +325,5 @@ def InitFSWP26Meas():
 
 #InitFSWP26Meas()
 
-#pn = FSWP26()
-#pn.InitFSWP26Meas()
+pn = FSWP26()
+pn.InitFSWP26Meas()
